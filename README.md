@@ -66,8 +66,6 @@ pip install tkcode jedi pygments
 ```bash
 git clone https://github.com/vahid2510/PyReality.git
 cd pyreality
-pip install -r requirements.txt  # در صورت وجود
-# یا:
 pip install tkcode jedi pygments
 ```
 
@@ -78,7 +76,7 @@ pip install tkcode jedi pygments
 فایل اصلی را اجرا کنید:
 
 ```bash
-python pyreality_v3_smart_indent.py
+python pyreality.py
 ```
 
 > اگر DPI Scaling باعث فشردگی UI شد، از تنظیمات نمایش ویندوز یا گزینهٔ سازگاری (High DPI) استفاده کنید.
