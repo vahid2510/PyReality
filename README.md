@@ -64,7 +64,7 @@ pip install tkcode jedi pygments
 3. پیش‌نیازها را نصب کنید.
 
 ```bash
-git clone <REPO_URL>
+git clone vahid2510/PyReality
 cd pyreality
 pip install -r requirements.txt  # در صورت وجود
 # یا:
